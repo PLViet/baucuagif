@@ -1,8 +1,8 @@
 const options = {
             method: 'POST',
-            url: 'http://api.leanhtruong.net/api-no-key/info ',
+            url: 'http://api.leanhtruong.net/api-no-key/info',
             form: {
                 id: '',
-                token: 'EAAGNO4a7r2wBAJpTPSJyAJzRJW8MRmiPqyZA7FPDJ02VIQGbqElbCOtxt6diWHReRR0xrdPpF4WvnGTSyIRCBbUeBM4xM0ZBGnUOE7Fv83NbHOjZAVxJicoHiPWao3GXJnZBsMcfFZAnW6ecd1Iqj6k9opoPVZBAFNvkXGblE0Lli4CpuuJai70nTZByfj9f8wZD '
+                token: 'EAAGNO4a7r2wBAJpTPSJyAJzRJW8MRmiPqyZA7FPDJ02VIQGbqElbCOtxt6diWHReRR0xrdPpF4WvnGTSyIRCBbUeBM4xM0ZBGnUOE7Fv83NbHOjZAVxJicoHiPWao3GXJnZBsMcfFZAnW6ecd1Iqj6k9opoPVZBAFNvkXGblE0Lli4CpuuJai70nTZByfj9f8wZD'
             }
 }
