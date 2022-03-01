@@ -1,4 +1,4 @@
 {
- "msg": "[ BANK ] =============\n[ R ] - Đăng Ký\n[ R ] - Rút\n[ TOP ] - Check Top\n[ CP ] - Đổi Mật Khẩu\n[ ALL ] - Check ALL\n[ G ] - Gửi\n[ V ] - Vay - các tag [ MƯỢN ] - [ TRẢ ] - [ CHECK ]\n[ P ] - Pay\n[ RESET ] - Quên Mật Khẩu\n================== [ AUTHOR: ARAXY ] ==================",
+ "msg": "[ BANK ] =============\n[ -r ] - Đăng Ký\n[ -rut ] - Rút\n[ TOP ] - Check Top\n[ -cp ] - Đổi Mật Khẩu\n[ -a ] - Check ALL\n[ -p ] - Gửi\n[ V ] - Vay - các tag [ -v ] - [ -tr ] - [ -cv ]\n[ -p ] - Pay\n[ -rp ] - Quên Mật Khẩu\n================== [ AUTHOR: ARAXY ] ==================",
  "link": "https://i.imgur.com/iYTe4Hj.png"
 }
